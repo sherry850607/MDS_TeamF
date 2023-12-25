@@ -118,4 +118,11 @@ ubike站點挑選有以下幾步驟:
   低水位:信賴區間下界 <= 0.15
   正常水位:信賴區間上界 < 0.85 & 信賴區間下界 > 0.15
 
-#### 5.2 Dashboard 成果呈現
+#### 5.2 Dashboard 成果呈現 (圖片及影片)
+
+![Dash Board](https://github.com/sherry850607/MDS_TeamF/blob/main/DashBoard%20Demo.png)
+
+https://github.com/sherry850607/MDS_TeamF/assets/109024604/e5cad0c0-1509-40db-9529-88efa03fce51
+
+
+
