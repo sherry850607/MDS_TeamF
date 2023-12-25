@@ -32,7 +32,8 @@ R11250012 蔡知諺 </br>
 
 **2.1 分群後的地圖特徵**
 
-![Map](https://github.com/sherry850607/MDS_TeamF/blob/main/Clusters%20Map.jpg)
+![f1](https://github.com/sherry850607/MDS_TeamF/assets/89391508/4fc9eabd-c308-4787-b8b4-96277d4be770)
+
 2群：
 - 紅色：捷運附近
 - 藍色：住宅區
