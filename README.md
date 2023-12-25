@@ -32,6 +32,7 @@ R11250012 蔡知諺 </br>
 
 **2.1 分群後的地圖特徵**
 
+![Map](https://github.com/sherry850607/MDS_TeamF/blob/main/Clusters%20Map.jpg)
 2群：
 - 紅色：捷運附近
 - 藍色：住宅區
@@ -42,6 +43,10 @@ R11250012 蔡知諺 </br>
 - 藍色：住宅
 
 **2.2 分群後的時間特徵**  
+
+![2 群](https://github.com/sherry850607/MDS_TeamF/blob/main/YouBike%202%20clusters.jpg)
+
+![3 群](https://github.com/sherry850607/MDS_TeamF/blob/main/YouBike%203%20clusters.jpg)
 
 2群：  
 晚上：  
