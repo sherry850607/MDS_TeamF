@@ -11,14 +11,14 @@ R11250012 蔡知諺 </br>
 背景：Youbike剩餘車數、車位數不穩定的情況下，需透過人力進行補車與拉車，有賴於對於下一時段剩餘車數、車位數之預測。
 目標：解決台北市Youbike補拉車問題
 資料集：
-- ubike即時資料:
-  https://mailntustedutw-my.sharepoint.com/:f:/g/personal/m11108027_ms_ntust_edu_tw/Ev5ggMiDcoBEqqgVjD24e8QB57LbSKJbVblVju9kfr_Y-A?e=PXPAeC
+- YouBike2.0臺北市公共自行車即時資訊:
+  https://mailntustedutw-my.sharepoint.com/:f:/g/personal/m11108027_ms_ntust_edu_tw/Ev5ggMiDcoBEqqgVjD24e8QB57LbSKJbVblVju9kfr_Y-A?e=PXPAeC](https://data.gov.tw/dataset/137993
 
-- 捷運站人流資料:
-  https://mailntustedutw-my.sharepoint.com/:f:/g/personal/m11108027_ms_ntust_edu_tw/EvQmF58hzWFOinGjb76RhCABddFfznGd_Y2KCh-1kC49Mg?e=B9eKSc
+- 臺北大眾捷運股份有限公司-捷運站人流資料:
+  https://www.metro.taipei/cp.aspx?n=FF31501BEBDD0136
 
-- 天氣資訊:
-  https://mailntustedutw-my.sharepoint.com/:f:/g/personal/m11108027_ms_ntust_edu_tw/EnO7Cy56AnhJq3Ah4T1Vea0BjuyoJbEJc5KiAu7VqzvFpA?e=4NInyV
+- 中央氣象局氣候觀測:
+  https://codis.cwa.gov.tw/StationData
 
 研究流程: 藉由t-SNE、PCA等方式對資料進行降維，緊接著使用k-means對全台北市ubike站點分群，分別將其分為兩群與三群並比較其差異
 
