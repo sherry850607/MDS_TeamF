@@ -49,6 +49,8 @@ R11250012 蔡知諺 </br>
 
 ![3 群](https://github.com/sherry850607/MDS_TeamF/blob/main/YouBike%203%20clusters.jpg)
 
+![figure2](https://github.com/sherry850607/MDS_TeamF/assets/89391508/8684e8af-a8b6-4b9a-80eb-1bb6c5f3787b)
+
 2群：  
 晚上：  
 - 紅點：人們下班下課把車騎走，水位偏低
