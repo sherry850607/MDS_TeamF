@@ -119,7 +119,7 @@ ubike站點挑選有以下幾步驟:
 
 #### 5.2 Dashboard 成果呈現 (圖片及影片)
 
-![Dash Board](https://github.com/sherry850607/MDS_TeamF/blob/main/DashBoard%20Demo.png)
+![DashBoard Demo](https://github.com/sherry850607/MDS_TeamF/assets/89391508/6f74454a-40d1-494b-bb95-38d5c891bff7)
 
 https://github.com/sherry850607/MDS_TeamF/assets/109024604/e5cad0c0-1509-40db-9529-88efa03fce51
 
